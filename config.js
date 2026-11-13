@@ -6,7 +6,7 @@ window.HS_CONFIG = {
   blogBase: 'https://gseek.pe.kr/?p=',
   basicsPost: 9722,   // 회수율 기초글
   methodPost: 9725,   // 회수율 계산 기준 글
-  toolPost: null,     // 이 도구를 소개하는 글(발행 뒤 번호를 넣는다)
+  toolPost: 9915,     // 이 도구를 소개하는 글(발행 뒤 번호를 넣는다)
   // 주가를 다시 받는 간격(분). 무료 키는 분당 60회라 너무 짧게 두지 않는다.
   refreshMinutes: 5
 };
