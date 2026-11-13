@@ -1,6 +1,6 @@
 /* 회수율 포트폴리오 계산기 종목 데이터. tool-data-export.py가 만든 파일이라 직접 고치지 않는다. */
 window.HS_DATA = {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "deposit": {
   "rate": 3.39,
   "label": "2026년 9월, 잠정"
@@ -27,6 +27,28 @@ window.HS_DATA = {
    "payout": "104% → 77%",
    "trend": "하락",
    "basis": "2026 회계연도 4분기 10-K 기준",
+   "whtNote": null
+  },
+  {
+   "t": "AMAT",
+   "name": "어플라이드머티리얼즈",
+   "kind": "stock",
+   "sector": "정보기술",
+   "post": 9923,
+   "baseDate": "2026-11-12",
+   "basePrice": 380.95,
+   "dps": 1.98,
+   "sd": 0.00382227,
+   "gA": 0.11508,
+   "gALabel": null,
+   "gB": 0.276502,
+   "gBLabel": null,
+   "shares": 793597443,
+   "base": 6196,
+   "financial": false,
+   "payout": "107% → 47%",
+   "trend": "하락",
+   "basis": "첫 카드: 2026 회계연도 4분기 실적발표문 기준(10-K 전, 3분기 표지 주식 수)",
    "whtNote": null
   },
   {
