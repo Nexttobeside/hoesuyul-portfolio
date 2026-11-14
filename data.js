@@ -470,6 +470,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "PLTR",
+   "name": "팔란티어",
+   "kind": "stock",
+   "sector": "정보기술",
+   "post": 9945,
+   "baseDate": "2026-11-13",
+   "basePrice": 167.99,
+   "dps": 0,
+   "sd": -0.01093427,
+   "gA": null,
+   "gALabel": "흑자전환",
+   "gB": 0.508213,
+   "gBLabel": null,
+   "shares": 2409497474,
+   "base": 4053.956,
+   "financial": false,
+   "payout": "적자 → 5%",
+   "trend": null,
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
    "t": "TPL",
    "name": "텍사스퍼시픽랜드",
    "kind": "stock",
