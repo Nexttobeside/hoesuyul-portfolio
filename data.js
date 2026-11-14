@@ -448,6 +448,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "PFE",
+   "name": "화이자",
+   "kind": "stock",
+   "sector": "헬스케어",
+   "post": 9950,
+   "baseDate": "2026-11-13",
+   "basePrice": 28.89,
+   "dps": 1.72,
+   "sd": -0.00248802,
+   "gA": -0.393321,
+   "gALabel": null,
+   "gB": -0.031396,
+   "gBLabel": null,
+   "shares": 5699853733,
+   "base": 11786,
+   "financial": false,
+   "payout": "40% → 126%",
+   "trend": "상승",
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
    "t": "PG",
    "name": "P&G",
    "kind": "stock",
