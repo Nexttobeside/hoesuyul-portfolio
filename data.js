@@ -1,6 +1,6 @@
 /* 회수율 포트폴리오 계산기 종목 데이터. tool-data-export.py가 만든 파일이라 직접 고치지 않는다. */
 window.HS_DATA = {
- "generated": "2026-11-14",
+ "generated": "2026-11-15",
  "deposit": {
   "rate": 3.39,
   "label": "2026년 9월, 잠정"
@@ -509,6 +509,28 @@ window.HS_DATA = {
    "base": 4053.956,
    "financial": false,
    "payout": "적자 → 5%",
+   "trend": null,
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
+   "t": "SPCX",
+   "name": "스페이스X",
+   "kind": "stock",
+   "sector": "산업재",
+   "post": 9956,
+   "baseDate": "2026-11-13",
+   "basePrice": 139.11,
+   "dps": 0,
+   "sd": -0.11183913,
+   "gA": null,
+   "gALabel": "자료 없음(지금 적자)",
+   "gB": 16.709374,
+   "gBLabel": null,
+   "shares": 12276927715,
+   "base": -39291,
+   "financial": false,
+   "payout": "적자 → 적자",
    "trend": null,
    "basis": "첫 카드: 2026년 3분기 10-Q 기준",
    "whtNote": null
