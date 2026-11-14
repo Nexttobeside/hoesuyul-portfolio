@@ -272,6 +272,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "ISRG",
+   "name": "인튜이티브서지컬",
+   "kind": "stock",
+   "sector": "헬스케어",
+   "post": 9938,
+   "baseDate": "2026-11-13",
+   "basePrice": 443.59,
+   "dps": 0,
+   "sd": 0.02215075,
+   "gA": 0.210341,
+   "gALabel": null,
+   "gB": 0.083555,
+   "gBLabel": null,
+   "shares": 346643718,
+   "base": 3598.0,
+   "financial": false,
+   "payout": "0% → 80%",
+   "trend": "상승",
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
    "t": "JPM",
    "name": "JP모건체이스",
    "kind": "stock",
