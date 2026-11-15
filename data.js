@@ -536,6 +536,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "STRL",
+   "name": "스털링 인프라스트럭처",
+   "kind": "stock",
+   "sector": "산업재",
+   "post": 9966,
+   "baseDate": "2026-11-13",
+   "basePrice": 292.39,
+   "dps": 0,
+   "sd": 0.00705861,
+   "gA": 0.595023,
+   "gALabel": null,
+   "gB": 0.26888,
+   "gBLabel": null,
+   "shares": 30502537,
+   "base": 471.299,
+   "financial": false,
+   "payout": "0% → 26%",
+   "trend": "상승",
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
    "t": "TPL",
    "name": "텍사스퍼시픽랜드",
    "kind": "stock",
