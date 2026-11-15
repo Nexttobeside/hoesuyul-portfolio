@@ -580,6 +580,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "UBER",
+   "name": "우버",
+   "kind": "stock",
+   "sector": "산업재",
+   "post": 9961,
+   "baseDate": "2026-11-13",
+   "basePrice": 69.69,
+   "dps": 0,
+   "sd": 0.01729319,
+   "gA": null,
+   "gALabel": "흑자전환",
+   "gB": 0.281744,
+   "gBLabel": null,
+   "shares": 2041898070,
+   "base": 10421,
+   "financial": false,
+   "payout": "적자 → 65%",
+   "trend": null,
+   "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
    "t": "VOO",
    "name": "VOO ETF",
    "kind": "etf",
