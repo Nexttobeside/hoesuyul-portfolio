@@ -1,6 +1,6 @@
 /* 회수율 포트폴리오 계산기 종목 데이터. tool-data-export.py가 만든 파일이라 직접 고치지 않는다. */
 window.HS_DATA = {
- "generated": "2026-11-15",
+ "generated": "2026-11-21",
  "deposit": {
   "rate": 3.39,
   "label": "2026년 9월, 잠정"
@@ -379,6 +379,28 @@ window.HS_DATA = {
    "payout": "113% → 52%",
    "trend": "하락",
    "basis": "첫 카드: 2026년 3분기 10-Q 기준",
+   "whtNote": null
+  },
+  {
+   "t": "MRVL",
+   "name": "마벨 테크놀로지",
+   "kind": "stock",
+   "sector": "정보기술",
+   "post": 9982,
+   "baseDate": "2026-11-20",
+   "basePrice": 122.28,
+   "dps": 0.24,
+   "sd": -0.04231296,
+   "gA": null,
+   "gALabel": "흑자전환",
+   "gB": 0.820817,
+   "gBLabel": null,
+   "shares": 898578000,
+   "base": 1722.8,
+   "financial": false,
+   "payout": "적자 → 84%",
+   "trend": null,
+   "basis": "첫 카드: 2027 회계연도 2분기 10-Q 기준",
    "whtNote": null
   },
   {
