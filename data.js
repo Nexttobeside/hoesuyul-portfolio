@@ -646,6 +646,28 @@ window.HS_DATA = {
    "whtNote": null
   },
   {
+   "t": "WMT",
+   "name": "월마트",
+   "kind": "stock",
+   "sector": "필수소비재",
+   "post": 9987,
+   "baseDate": "2026-11-20",
+   "basePrice": 127.95,
+   "dps": 0.9775,
+   "sd": 0.00490475,
+   "gA": 0.235266,
+   "gALabel": null,
+   "gB": 0.114407,
+   "gBLabel": null,
+   "shares": 7933746241,
+   "base": 12913,
+   "financial": false,
+   "payout": "117% → 71%",
+   "trend": "하락",
+   "basis": "첫 카드: 2027 회계연도 3분기 실적발표문 기준(10-Q 전)",
+   "whtNote": null
+  },
+  {
    "t": "VOO",
    "name": "VOO ETF",
    "kind": "etf",
